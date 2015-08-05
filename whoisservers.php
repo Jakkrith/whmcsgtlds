@@ -139,22 +139,59 @@
 .bzh|whois-bzh.nic.fr|Requested Domain cannot be found
 .bz|whois.afilias-grs.info.|NOT FOUND
 .cab|whois.donuts.co|Domain not found.
+.cafe|whois.donuts.co|Domain not found.
+.cal|whois.nic.google|Domain not found.
 .camera|whois.donuts.co|Domain not found.
 .camp|whois.donuts.co|Domain not found.
+.cancerresearch|whois.nic.cancerresearch|No Data Found
+.canon|whois.nic.canon|DOMAIN NOT FOUND
 .capetown|whois.nic.capetown|Available
+.capital|whois.donuts.co|Domain not found.
+.cards|whois.donuts.co|Domain not found.
 .careers|whois.donuts.co|Domain not found.
+.career|whois.nic.career|No match for
+.care|whois.donuts.co|Domain not found.
+.cars|whois.uniregistry.net|is available for registration
+.casa|whois-dub.mm-registry.com|Not Registered
+.cash|whois.donuts.co|Domain not found.
+.casino|whois.donuts.co|Domain not found.
+.catering|whois.donuts.co|Domain not found.
 .cat|whois.cat|NOT FOUND
+.cat|whois.cat|NOT FOUND.
 .ca|whois.cira.ca|Domain status:         available
+.cba|whois.nic.cba|No Data Found
+.cc|ccwhois.verisign-grs.com|No match for
 .cc|whois.nic.cc|No match
 .cd|whois.cd|No match
 .center|whois.donuts.co|Domain not found.
 .center|whois.donuts.co|Domain not found.
+.center|whois.donuts.co|Domain not found.
+.ceo|whois.nic.ceo|Not found
+.cern|whois.afilias-srs.net|NOT FOUND
+.cfa|whois.nic.cfa|No match for
+.cfd|whois.nic.cfd|No match for
+.cf|whois.dot.cf|Invalid query or domain name not known in Dot CF Domain Registry
+.channel|whois.nic.google|Domain not found.
+.chat|whois.donuts.co|Domain not found.
 .cheap|whois.donuts.co|Domain not found.
+.cheap|whois.donuts.co|Domain not found.
+.christmas|whois.uniregistry.net|is available for registration
+.chrome|whois.nic.google|Domain not found.
 .church|whois.donuts.co|Domain not found.
 .ch|whois.nic.ch|not have an entry
+.city|whois.donuts.co|Domain not found.
+.ci|whois.nic.ci|BROKEN
+.claims|whois.donuts.co|Domain not found.
+.cleaning|whois.donuts.co|Domain not found.
+.click|whois.uniregistry.net|is available for registration
+.clinic|whois.donuts.co|Domain not found.
 .clothing|whois.donuts.co|Domain not found.
+.clothing|whois.donuts.co|Domain not found.
+.cloud|whois.nic.cloud|No Data Found
 .club|whois.nic.club|No Data Found
 .club|whois.nic.club|Not found
+.club|whois.nic.club|Not found
+.cl|whois.nic.cl|no existe
 .cl|whois.nic.cl|no existe
 .cm|whois.netcom.cm|Not Registered
 .cn.com|whois.centralnic.com|DOMAIN NOT FOUND
@@ -176,9 +213,11 @@
 .co.ve|whois.nic.ve|No match for
 .co.za|whois.registry.net.za|Available
 .co.zw|http://zispa.co.zw/cgi-bin/search?domain=|HTTPREQUEST-is available for registration
+.coach|whois.donuts.co|Domain not found.
 .codes|whois.donuts.co|Domain not found.
 .coffee|whois.donuts.co|Domain not found.
 .college|whois.nic.college|DOMAIN NOT FOUND
+.cologne|whois-fe1.pdt.cologne.tango.knipp.de|no matching objects found
 .com.au|whois.audns.net.au|No Data Found
 .com.br|whois.nic.br|No match for
 .com.cn|whois.cnnic.net.cn|No matching record
@@ -204,16 +243,38 @@
 .com.tw|whois.twnic.net|No Found
 .com.ua|whois.net.ua|No entries found
 .com.ve|whois.nic.ve|No match for
+.commbank|whois.nic.commbank|No Data Found
+.community|whois.donuts.co|Domain not found.
+.company|whois.donuts.co|Domain not found.
 .company|whois.donuts.co|Domain not found.
 .computer|whois.donuts.co|Domain not found.
+.computer|whois.donuts.co|Domain not found.
 .com|whois.crsnic.net|No match for
+.condos|whois.donuts.co|Domain not found.
 .construction|whois.donuts.co|Domain not found.
+.construction|whois.donuts.co|Domain not found.
+.consulting|whois.unitedtld.com|Domain not found.
 .contractors|whois.donuts.co|Domain not found.
+.contractors|whois.donuts.co|Domain not found.
+.cooking|whois-dub.mm-registry.com|Not Registered
 .cool|whois.donuts.co|Domain not found.
+.cool|whois.donuts.co|Domain not found.
+.coop|whois.nic.coop|DOMAIN NOT FOUND
 .coop|whois.nic.coop|No domain records were found
+.corsica|whois-corsica.nic.fr|Requested Domain cannot be found
+.country|whois-dub.mm-registry.com|Not Registered
+.coupons|whois.donuts.co|Domain not found.
+.courses|whois.aridnrs.net.au|No Data Found
 .co|whois.nic.co|Not found
 .cq.cn|whois.cnnic.net.cn|No matching record
+.credit|whois.donuts.co|Domain not found.
+.cricket|whois.nic.cricket|Not found
+.cruises|whois.donuts.co|Domain not found.
+.cr|whois.nic.cr|No entries found.
+.cuisinella|whois.nic.cuisinella|No Data Found
 .cx|whois.nic.cx|No match for
+.cymru|whois.nic.cymru|This domain name has not been registered.
+.cyou|whois.afilias-srs.net|BROKEN
 .cz|whois.nic.cz|No entries found
 .desa.id|whois.pandi.or.id|DOMAIN NOT FOUND
 .design|whois.nic.design|DOMAIN NOT FOUND
@@ -656,64 +717,3 @@
 .zj.cn|whois.cnnic.net.cn|No matching record
 .zlg.br|whois.nic.br|No match for
 .zone|whois.donuts.co|Domain not found.
-.cafe|whois.donuts.co|Domain not found.
-.cal|whois.nic.google|Domain not found.
-.cancerresearch|whois.nic.cancerresearch|No Data Found
-.canon|whois.nic.canon|DOMAIN NOT FOUND
-.capital|whois.donuts.co|Domain not found.
-.cards|whois.donuts.co|Domain not found.
-.care|whois.donuts.co|Domain not found.
-.career|whois.nic.career|No match for
-.cars|whois.uniregistry.net|is available for registration
-.casa|whois-dub.mm-registry.com|Not Registered
-.cash|whois.donuts.co|Domain not found.
-.casino|whois.donuts.co|Domain not found.
-.cat|whois.cat|NOT FOUND.
-.catering|whois.donuts.co|Domain not found.
-.cba|whois.nic.cba|No Data Found
-.cc|ccwhois.verisign-grs.com|No match for
-.center|whois.donuts.co|Domain not found.
-.ceo|whois.nic.ceo|Not found
-.cern|whois.afilias-srs.net|NOT FOUND
-.cf|whois.dot.cf|Invalid query or domain name not known in Dot CF Domain Registry
-.cfa|whois.nic.cfa|No match for
-.cfd|whois.nic.cfd|No match for
-.channel|whois.nic.google|Domain not found.
-.chat|whois.donuts.co|Domain not found.
-.cheap|whois.donuts.co|Domain not found.
-.christmas|whois.uniregistry.net|is available for registration
-.chrome|whois.nic.google|Domain not found.
-.ci|whois.nic.ci|BROKEN
-.city|whois.donuts.co|Domain not found.
-.cl|whois.nic.cl|no existe
-.claims|whois.donuts.co|Domain not found.
-.cleaning|whois.donuts.co|Domain not found.
-.click|whois.uniregistry.net|is available for registration
-.clinic|whois.donuts.co|Domain not found.
-.clothing|whois.donuts.co|Domain not found.
-.cloud|whois.nic.cloud|No Data Found
-.club|whois.nic.club|Not found
-.coach|whois.donuts.co|Domain not found.
-.cologne|whois-fe1.pdt.cologne.tango.knipp.de|no matching objects found
-.commbank|whois.nic.commbank|No Data Found
-.community|whois.donuts.co|Domain not found.
-.company|whois.donuts.co|Domain not found.
-.computer|whois.donuts.co|Domain not found.
-.condos|whois.donuts.co|Domain not found.
-.construction|whois.donuts.co|Domain not found.
-.consulting|whois.unitedtld.com|Domain not found.
-.contractors|whois.donuts.co|Domain not found.
-.cooking|whois-dub.mm-registry.com|Not Registered
-.cool|whois.donuts.co|Domain not found.
-.coop|whois.nic.coop|DOMAIN NOT FOUND
-.corsica|whois-corsica.nic.fr|Requested Domain cannot be found
-.country|whois-dub.mm-registry.com|Not Registered
-.coupons|whois.donuts.co|Domain not found.
-.courses|whois.aridnrs.net.au|No Data Found
-.cr|whois.nic.cr|No entries found.
-.credit|whois.donuts.co|Domain not found.
-.cricket|whois.nic.cricket|Not found
-.cruises|whois.donuts.co|Domain not found.
-.cuisinella|whois.nic.cuisinella|No Data Found
-.cymru|whois.nic.cymru|This domain name has not been registered.
-.cyou|whois.afilias-srs.net|BROKEN
