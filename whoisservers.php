@@ -1,8 +1,13 @@
+.abbott|whois.afilias-srs.net|NOT FOUND
+.abogado|whois-dub.mm-registry.com|Status: Not Registered
 .ac.ac|whois.nic.ac|is not registered
+.academy|whois.donuts.co|Domain not found
 .academy|whois.donuts.co|Domain not found.
 .ac.at|whois.nic.at|nothing found
 .ac.be|whois.dns.be|No such domain
 .ac.cn|whois.cnnic.net.cn|No matching record
+.accountants|whois.donuts.co|Domain not found
+.accountant|whois.nic.accountant|Not found
 .ac.id|whois.pandi.or.id|DOMAIN NOT FOUND
 .ac.il|whois.isoc.org.il|No data was found
 .ac.in|whois.inregistry.in|NOT FOUND
@@ -11,27 +16,50 @@
 .ac.kr|whois.nic.or.kr|is not registered
 .ac.nz|whois.srs.net.nz|220 Available
 .ac.th|whois.thnic.net|No match for
+.active|whois.afilias-srs.net|NOT FOUND
+.actor|whois.unitedtld.com|Domain not found.
 .ac.uk|whois.ja.net|Sorry - no
+.ac|whois.nic.ac|is available for purchase
 .ac|whois.nic.ac|is available for purchase
 .ac|whois.nic.ac|is not registered
 .ac.za|whois.co.za|No information available
 .adm.br|whois.nic.br|No match for
+.ads|whois.nic.google|Domain not found.
+.adult|whois.afilias-srs.net|NOT FOUND
 .adv.br|whois.nic.br|No match for
 .ad|whois.ripe.net|no entries found
+.aeg|whois.nic.aeg|No match for
+.aero|whois.aero|NOT FOUND
 .aero|whois.aero|NOT FOUND
 .ae|whois.aeda.net.ae|No Data Found
+.ae|whois.aeda.net.ae|No Data Found
+.afl|whois.nic.afl|No Data Found
+.af|whois.nic.af|No Object Found
 .af|whois.nic.af|No Object Found
 .agency|whois.donuts.co|Domain not found.
 .agro.pl|whois.dns.pl|No information available
 .ag|whois.nic.ag|NOT FOUND
+.ag|whois.nic.ag|NOT FOUND
 .ah.cn|whois.cnnic.net.cn|No matching record
 .aid.pl|whois.dns.pl|No information available
 .airforce|whois.unitedtld.com|Domain not found
+.airtel|whois.nic.airtel|No match for
+.ai|whois.ai|If you would like to register this
+.allfinanz|whois.ksregistry.net|The queried object does not exist
+.alsace|whois-alsace.nic.fr|Requested Domain cannot be found
 .alt.za|whois.co.za|No information available
 .am.br|whois.nic.br|No match for
 .am|whois.amnic.net|No match
+.am|whois.amnic.net|No match
+.android|whois.nic.google|Domain not found.
+.apartments|whois.donuts.co|Domain not found
+.app|whois.nic.google|Domain not found.
+.aquarelle|whois-aquarelle.nic.fr|Requested Domain cannot be found
 .archi|whois.ksregistry.net|not found
+.archi|whois.ksregistry.net|The queried object does not exist
+.army|whois.rightside.co|Domain not found.
 .arpa|whois.iana.org|0 objects
+.arpa|whois.iana.org|any data for
 .arq.br|whois.nic.br|No match for
 .art.br|whois.nic.br|No match for
 .arts.ro|whois.rotld.ro|No entries found
@@ -41,12 +69,24 @@
 .asso.fr|whois.nic.fr|No entries found
 .asso.mc|whois.ripe.net|no entries found
 .as|whois.nic.as|Available
+.as|whois.nic.as|NOT FOUND
 .atm.pl|whois.dns.pl|No information available
 .attorney|whois.rightside.co|Domain not found
 .at|whois.nic.at|nothing found
+.auction|whois.unitedtld.com|Domain not found.
+.audio|whois.uniregistry.net|is available for registration
 .auto.pl|whois.dns.pl|No information available
+.autos|whois.afilias-srs.net|BROKEN
+.auto|whois.uniregistry.net|is available for registration
+.au|whois.audns.net.au|No Data Foud
+.aw|whois.nic.aw|is free
 .ax|whois.ax|No records matching
+.ax|whois.ax|No records matching
+.band|whois.rightside.co|Domain not found.
+.bank|whois.nic.bank|No match for
+.barcelona|whois.nic.barcelona|no matching objects found
 .bargains|whois.donuts.co|Domain not found.
+.bar|whois.nic.bar|DOMAIN NOT FOUND
 .bbs.tr|whois.metu.edu.tr|No match found
 .beer|whois-dub.mm-registry.com|not working
 .berlin|whois.nic.berlin|No match
