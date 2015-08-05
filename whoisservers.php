@@ -356,7 +356,6 @@
 .fans|whois.nic.fans|BROKEN
 .fan|whois.nic.fan|DOMAIN NOT FOUND
 .farm|whois.donuts.co|Domain not found.
-.farm|whois.donuts.co|Domain not found.
 .fashion|whois-dub.mm-registry.com|Not Registered
 .feedback|whois.nic.feedback|DOMAIN NOT FOUND
 .film|whois.nic.film|No Data Found
@@ -369,11 +368,8 @@
 .fish|whois.donuts.co|Domain not found.
 .fitness|whois.donuts.co|Domain not found.
 .fit|whois-dub.mm-registry.com|Not Registered
-.fi|whois.ficora.fi|Domain not found
 .fi|whois.fi|Domain not found
 .flights|whois.donuts.co|Domain not found.
-.flights|whois.donuts.co|Domain not found.
-.florist|whois.donuts.co|Domain not found.
 .florist|whois.donuts.co|Domain not found.
 .flowers|whois.uniregistry.net|is available for registration
 .flsmidth|whois.ksregistry.net|The queried object does not exist
@@ -388,18 +384,15 @@
 .fot.br|whois.nic.br|No match for
 .foundation|whois.donuts.co|Domain not found.
 .fo|whois.nic.fo|BROKEN
-.fo|whois.nic.fo|no entries found
 .frl|whois.nic.frl|AVAILABLE
 .frogans|whois-frogans.nic.fr|Requested Domain cannot be found
 .fr|whois.nic.fr|No entries found
 .fst.br|whois.nic.br|No match for
 .fund|whois.donuts.co|Domain not found.
 .furniture|whois.donuts.co|Domain not found.
-.futbol|whois.unitedtld.com|Domain not found
 .futbol|whois.unitedtld.com|Domain not found.
 .fyi|whois.donuts.co|Domain not found.
 .g12.br|whois.nic.br|No match for
-.gallery|whois.donuts.co|Domain not found.
 .gallery|whois.donuts.co|Domain not found.
 .gal|whois.gal.coreregistry.net|no matching objects found
 .game|whois.uniregistry.net|is available for registration
@@ -409,12 +402,10 @@
 .gbiz|whois.nic.google|Domain not found.
 .gd.cn|whois.cnnic.net.cn|No matching record
 .gd|whois.nic.gd|not found...
-.gd|whois.nic.gd|not found...
 .geek.nz|whois.srs.net.nz|220 Available
 .gen.nz|whois.srs.net.nz|220 Available
 .gf|whois.nplus.gf|not found in our database
 .gift|whois.uniregistry.net|is available for registration
-.glass|whois.donuts.co|Domain not found.
 .glass|whois.donuts.co|Domain not found.
 .gle|whois.nic.google|Domain not found.
 .global|whois.nic.global|NOT FOUND
@@ -450,9 +441,7 @@
 .gov.tr|whois.metu.edu.tr|No match found
 .gov.za|whois.co.za|No information available
 .gov|whois.dotgov.gov|No match for
-.gov|whois.nic.gov|No match for
 .gq|whois.dominio.gq|Invalid query or domain name not known in Dominio GQ Domain Registry
-.graphics|whois.donuts.co|Domain not found.
 .graphics|whois.donuts.co|Domain not found.
 .gratis|whois.donuts.co|Domain not found.
 .green|whois.afilias.net|NOT FOUND
@@ -461,12 +450,9 @@
 .gs.cn|whois.cnnic.net.cn|No matching record
 .gsm.pl|whois.dns.pl|No information available
 .gs|whois.nic.gs|No Object Found
-.gs|whois.nic.gs|No Object Found
 .guge|whois.nic.google|Domain not found.
 .guide|whois.donuts.co|Domain not found.
 .guitars|whois.uniregistry.net|is available for registration
-.guitars|whois.uniregistry.net|is available for registration
-.guru|whois.donuts.co|Domain not found.
 .guru|whois.donuts.co|Domain not found.
 .gv.ac|whois.nic.ac|is not registered
 .gv.at|whois.nic.at|nothing found
@@ -493,7 +479,6 @@
 .hn|whois.nic.hn|No Object Found
 .hockey|whois.donuts.co|Domain not found.
 .holdings|whois.donuts.co|Domain not found.
-.holdings|whois.donuts.co|Domain not found.
 .holiday|whois.donuts.co|Domain not found.
 .homedepot|whois.afilias-srs.net|BROKEN
 .homes|whois.afilias-srs.net|BROKEN
@@ -502,12 +487,10 @@
 .hosting|whois.uniregistry.net|is available for registration
 .host|whois.nic.host|DOMAIN NOT FOUND
 .house|whois.donuts.co|Domain not found.
-.house|whois.donuts.co|Domain not found.
 .how|whois.nic.google|Domain not found.
 .hr|whois.dns.hr|No entries found
 .ht|whois.nic.ht|No Object Found
 .hu.com|whois.centralnic.com|DOMAIN NOT FOUND
-.hu|whois.nic.hu|No match
 .hu|whois.nic.hu|No match
 .ibm|whois.nic.ibm|No Data Found
 .icbc|whois.afilias-srs.net|BROKEN
@@ -516,14 +499,12 @@
 .id.au|whois.audns.net.au|No Data Found
 .idrett.no|whois.norid.no|No match
 .id|whois.pandi.or.id|DOMAIN NOT FOUND
-.ie|whois.domainregistry.ie|% Not Registered
 .ie|whois.domainregistry.ie|Not Registered
 .ifm|whois.nic.ifm|no matching objects found
 .iinet|whois.aridnrs.net.au|No Data Found
 .il|whois.isoc.org.il|No data was found to match the request criteria.
 .immobilien|whois.unitedtld.com|Domain not found.
 .immo|whois.donuts.co|Domain not found.
-.im|whois.nic.im|was not found
 .im|whois.nic.im|was not found.
 .in.rs|whois.rnids.rs|%ERROR:103
 .in.th|whois.thnic.net|No match for
@@ -537,30 +518,22 @@
 .info.ro|whois.rotld.ro|No entries found
 .info.ve|whois.nic.ve|No match for
 .info|whois.afilias.net|NOT FOUND
-.info|whois.afilias.net|NOT FOUND
 .ing|whois.nic.google|Domain not found.
 .ink|whois.centralnic.com|DOMAIN NOT FOUND
-.ink|whois.donuts.co|Domain not found.
-.institute|whois.donuts.co|Domain not found.
 .institute|whois.donuts.co|Domain not found.
 .insure|whois.donuts.co|Domain not found.
 .international|whois.donuts.co|Domain not found.
-.international|whois.donuts.co|Domain not found.
 .int|0 objects.
 .investments|whois.donuts.co|Domain not found.
-.in|whois.inregistry.in|NOT FOUND
 .in|whois.inregistry.net|NOT FOUND
-.io|whois.nic.io|is available
 .io|whois.nic.io|is available for purchase
 .iq|whois.cmc.iq|No Object Found
 .irish|whois.afilias-srs.net|NOT FOUND
-.ir|whois.nic.ir|no entries found
 .ir|whois.nic.ir|no entries found
 .istanbul|whois.afilias-srs.net|BROKEN
 .ist|whois.afilias-srs.net|BROKEN
 .is|whois.isnic.is|No entries found
 .is|whois.isnic.is|No entries found for query
-.it|whois.nic.it|AVAILABLE
 .it|whois.nic.it|AVAILABLE
 .iwi.nz|whois.srs.net.nz|220 Available
 .java|whois.nic.java|No match for
