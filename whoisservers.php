@@ -523,7 +523,7 @@
 .institute|whois.donuts.co|Domain not found.
 .insure|whois.donuts.co|Domain not found.
 .international|whois.donuts.co|Domain not found.
-.int|0 objects.
+.int|whois.iana.org|0 objects.
 .investments|whois.donuts.co|Domain not found.
 .in|whois.inregistry.net|NOT FOUND
 .io|whois.nic.io|is available for purchase
@@ -537,19 +537,37 @@
 .it|whois.nic.it|AVAILABLE
 .iwi.nz|whois.srs.net.nz|220 Available
 .java|whois.nic.java|No match for
+.jcb|whois.nic.gmo|DOMAIN NOT FOUND
+.jewelry|whois.donuts.co|Domain not found.
+.je|whois.je|NOT FOUND
 .jl.cn|whois.cnnic.net.cn|No matching record
+.jll|whois.afilias-srs.net|BROKEN
+.jobs|jobswhois.verisign-grs.com|No match for
 .joburg|whois.nic.joburg|Available
 .jor.br|whois.nic.br|No match for
 .jp|whois.jprs.jp|No match!!
 .js.cn|whois.cnnic.net.cn|No matching record
+.juegos|whois.uniregistry.net|is available for registration
 .k12.il|whois.isoc.org.il|No data was found
 .k12.tr|whois.metu.edu.tr|No match found
+.kaufen|whois.unitedtld.com|Domain not found.
+.kddi|whois.nic.kddi|DOMAIN NOT FOUND
+.ke|whois.kenic.or.ke|No Object Found
+.kg|whois.domain.kg|Data not found.
 .kh.ua|whois.net.ua|No entries found
 .kiev.ua|whois.net.ua|No entries found
 .kim|whois.afilias.net|NOT FOUND
 .kitchen|whois.donuts.co|Domain not found.
 .kiwi.nz|whois.srs.net.nz|220 Available
-.kz|whois.domain.kz|No entries found
+.kiwi|whois.nic.kiwi|Not Registered
+.ki|whois.nic.ki|No Object Found
+.koeln|whois-fe1.pdt.koeln.tango.knipp.de|no matching objects found
+.komatsu|whois.nic.komatsu|No Data Found
+.krd|whois.aridnrs.net.au|No Data Found
+.kr|whois.kr|The requested domain was not found
+.kyoto|whois.nic.kyoto|DOMAIN NOT FOUND
+.ky|whois.kyregistry.ky|is available for registration
+.kz|whois.nic.kz|Nothing found for this query.
 .land|whois.donuts.co|Domain not found.
 .la|whois.nic.la|NOT FOUND
 .lel.br|whois.nic.br|No match for
