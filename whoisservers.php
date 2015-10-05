@@ -20,8 +20,6 @@
 .active|whois.afilias-srs.net|NOT FOUND
 .actor|whois.unitedtld.com|Domain not found.
 .ac|whois.nic.ac|is available for purchase
-.ac|whois.nic.ac|is available for purchase
-.ac|whois.nic.ac|is not registered
 .adm.br|whois.nic.br|No match for
 .ads|whois.nic.google|Domain not found.
 .adult|whois.afilias-srs.net|NOT FOUND
@@ -29,15 +27,11 @@
 .ad|whois.ripe.net|no entries found
 .aeg|whois.nic.aeg|No match for
 .aero|whois.aero|NOT FOUND
-.aero|whois.aero|NOT FOUND
-.ae|whois.aeda.net.ae|No Data Found
-.ae|whois.aeda.net.ae|No Data Found
+.ae|whois.aeda.net.ae|Not Available
 .afl|whois.nic.afl|No Data Found
-.af|whois.nic.af|No Object Found
 .af|whois.nic.af|No Object Found
 .agency|whois.donuts.co|Domain not found.
 .agro.pl|whois.dns.pl|No information available
-.ag|whois.nic.ag|NOT FOUND
 .ag|whois.nic.ag|NOT FOUND
 .ah.cn|whois.cnnic.net.cn|No matching record
 .aid.pl|whois.dns.pl|No information available
@@ -48,7 +42,6 @@
 .alsace|whois-alsace.nic.fr|Requested Domain cannot be found
 .alt.za|whois.co.za|No information available
 .am.br|whois.nic.br|No match for
-.am|whois.amnic.net|No match
 .am|whois.amnic.net|No match
 .android|whois.nic.google|Domain not found.
 .apartments|whois.donuts.co|Domain not found.
@@ -64,8 +57,7 @@
 .asn.au|whois.audns.net.au|No Data Found
 .asso.fr|whois.nic.fr|No entries found
 .asso.mc|whois.ripe.net|no entries found
-.associates|whois.donuts.co|Domain not found.
-.as|whois.nic.as|Available
+.associates|whois.donuts.co|Domain not found
 .as|whois.nic.as|NOT FOUND
 .atm.pl|whois.dns.pl|No information available
 .attorney|whois.rightside.co|Domain not found
@@ -77,7 +69,6 @@
 .auto|whois.uniregistry.net|is available for registration
 .au|whois.audns.net.au|No Data Foud
 .aw|whois.nic.aw|is free
-.ax|whois.ax|No records matching
 .ax|whois.ax|No records matching
 .band|whois.rightside.co|Domain not found.
 .bank|whois.nic.bank|No match for
@@ -135,7 +126,6 @@
 .buzz|whois.nic.buzz|Not found:
 .bw|whois.nic.net.bw|No Object Found
 .by|whois.cctld.by|Object does not exist
-.by|whois.cctld.by|Object does not exists
 .bzh|whois-bzh.nic.fr|Requested Domain cannot be found
 .bz|whois.afilias-grs.info.|NOT FOUND
 .cab|whois.donuts.co|Domain not found.
@@ -156,7 +146,7 @@
 .cash|whois.donuts.co|Domain not found.
 .casino|whois.donuts.co|Domain not found.
 .catering|whois.donuts.co|Domain not found.
-.cat|whois.cat|NOT FOUND.
+.cat|whois.cat|NOT FOUND
 .ca|whois.cira.ca|Domain status:         available
 .cba|whois.nic.cba|No Data Found
 .cc|whois.nic.cc|No match
@@ -282,7 +272,6 @@
 .dev|whois.nic.google|Domain not found.
 .de|whois.denic.de|Status: free
 .diamonds|whois.donuts.co|Domain not found.
-.diamonds|whois.donuts.co|Domain not found.
 .diet|whois.uniregistry.net|is available for registration
 .digital|whois.donuts.co|Domain not found.
 .directory|whois.donuts.co|Domain not found.
@@ -320,7 +309,6 @@
 .edu.tr|whois.metu.edu.tr|No match found
 .edu.za|whois.co.za|No information available
 .education|whois.donuts.co|Domain not found.
-.education|whois.donuts.co|Domain not found.
 .edu|whois.internic.net|No match for
 .ee|whois.tld.ee|No entries found.
 .email|whois.donuts.co|Domain not found.
@@ -331,7 +319,6 @@
 .engineer|whois.rightside.co|Domain not found.
 .enterprises|whois.donuts.co|Domain not found.
 .epson|whois.aridnrs.net.au|No Data Found
-.equipment|whois.donuts.co|Domain not found.
 .equipment|whois.donuts.co|Domain not found.
 .ernet.in|whois.inregistry.in|NOT FOUND
 .erni|whois.nic.erni|no matching objects found
@@ -660,8 +647,6 @@
 .sn.cn|whois.cnnic.net.cn|No matching record
 .social|whois.donuts.co|Domain not found.
 .solar|whois.donuts.co|Domain not found.
-.solar|whois.donuts.co|Domain not found.
-.solutions|whois.donuts.co|Domain not found.
 .solutions|whois.donuts.co|Domain not found.
 .sos.pl|whois.dns.pl|No information available
 .spb.ru|whois.relcom.ru|No entries found
@@ -707,7 +692,6 @@
 .uk.co|whois.uk.co|NO MATCH
 .uk.net|whois.centralnic.com|DOMAIN NOT FOUND
 .uk|whois.nic.uk|No match
-.uno|whois.nic.uno|No Data Found
 .uno|whois.uno.nic|Not found
 .us.com|whois.centralnic.com|DOMAIN NOT FOUND
 .us|whois.nic.us|Not found
