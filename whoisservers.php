@@ -724,6 +724,7 @@
 .xj.cn|whois.cnnic.net.cn|No matching record
 .xxx|whois.nic.xxx|NOT FOUND
 .xz.cn|whois.cnnic.net.cn|No matching record
+.xyz|whois.nic.xyz|DOMAIN NOT FOUND
 .yn.cn|whois.cnnic.net.cn|No matching record
 .yt|whois.nic.yt|No entries found
 .za.com|whois.centralnic.com|DOMAIN NOT FOUND
